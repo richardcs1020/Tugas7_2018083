@@ -1,0 +1,28 @@
+<resources>
+    <string name="Close">Close</string>
+    <string name="Open">Open</string>
+    <string name="app_name">Pertemuan5_2018083</string>
+    <string name="deskription_menu">CJ CGV adalah perusahaan bisnis bioskop multiplex terbesar di Korea Selatan serta memiliki cabang in Tiongkok, Vietnam, Indonesia dan Amerika Serikat.</string>
+    <string name="ingredients">Dinoyo, Kepanjen, Ijen</string>
+    <string name="Resep">dirangkai sampai berbentuk televisi</string>
+    <string name="price">Harga :</string>
+    <string name="Harga_Bioskop">Start From 35.000</string>
+    <string name="navigation_drawer_open" > Open NavigationDrawer </string>
+    <string name="navigation_drawer_close" > Close NavigationDrawer </string>
+    <string name="Harga_Cenil">Start from 35.000</string>
+    <string-array name="Elektronik">
+        <item>CGV</item>
+        <item>Cinepolis</item>
+        <item>Cineplex</item>
+    </string-array>
+    <string-array name="star">
+        <item>4.6</item>
+        <item>4.7</item>
+        <item>4.5</item>
+    </string-array>
+    <string-array name="deskripsi">
+        <item>35.000</item>
+        <item>40.000</item>
+        <item>50.000</item>
+    </string-array>
+</resources>
